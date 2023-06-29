@@ -1,0 +1,11 @@
+Package: acp
+Type: Package
+Title: realiza un analisis de (PCA) aplicacion de componentes principales. 
+Version: 0.1.0
+Author: Yazmin Martinez Mendoza  
+Maintainer: The package maintainer <yazminmendoza1130@gmail.com>
+Description: este paquete realiza un analisis de componentes princiáles (PCA) ademas de dar un porcentaje de los componentes princiapales para decir con cuales trabajar y por ultimo graficarlos. 
+License: GPL- 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3

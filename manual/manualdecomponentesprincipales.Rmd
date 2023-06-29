@@ -1,0 +1,14 @@
+---
+title: "componentes principales"
+author: "yazmin martinez mendoza"
+date: "2023-06-29"
+output: pdf_document
+---
+
+## ##introducción
+
+El Análisis de Componentes Principales (ACP) es una técnica estadística de síntesis de la información, o reducción de la dimensión (número de variables). Es decir, ante un banco de datos con muchas variables, el objetivo será reducirlas a un menor número perdiendo la menor cantidad de información posible. Los nuevos componentes principales o factores serán una combinación lineal de las variables originales, y además serán independientes entre sí. Un aspecto clave en ACP es la interpretación de los factores, ya que ésta no viene dada a priori, sino que será deducida tras observar la relación de los factores con las variables iniciales (habrá, pues, que estudiar tanto el signo como la magnitud de las correlaciones). Esto no siempre es fácil, y será de vital importancia el conocimiento que el experto tenga sobre la materia de investigación. [@articlegurrea2000analisis]
+
+El m´etodo de Componentes Principales tiene por objeto reducir la dimensionalidad de un problema de m´ultiples
+variables, aplicando una sucesi´on de transformaciones lineales a las variables, de modo que un subconjunto de
+ellas concentre la mayor parte de la variabilidad contenida en las variables originales.[@miscgalbiati2010componentes]
